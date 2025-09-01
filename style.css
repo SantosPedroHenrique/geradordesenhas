@@ -150,6 +150,9 @@ label {
     justify-content: space-between;
 }
 
+#cadeado{
+    width: 180px;
+}
 
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha {
